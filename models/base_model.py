@@ -3,7 +3,7 @@ import models
 import uuid
 from datetime import datetime
 
-"""Base Model"""
+"""Module for Base Model"""
 
 
 class BaseModel:
