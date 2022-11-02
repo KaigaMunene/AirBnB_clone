@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""comment"""
+"""Initialization for Models"""
 from models.engine.file_storage import FileStorage
 
 
